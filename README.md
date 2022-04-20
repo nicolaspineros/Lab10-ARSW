@@ -22,6 +22,10 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 ![](images/part3/part3-function-configii.png)
 
+Creamos la Function App con las siguientes especificaciones
+
+![](images/crearFuncion.png)
+
 2. Instale la extensión de **Azure Functions** para Visual Studio Code.
 
 ![](images/part3/part3-install-extension.png)
